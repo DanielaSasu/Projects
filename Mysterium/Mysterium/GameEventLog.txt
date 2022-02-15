@@ -1,0 +1,660 @@
+Info : Game Phase 1: Date: Sat Jan 30 15:14:04 2021
+
+Info : Round 1:Date: Sat Jan 30 15:14:04 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Jan 30 15:14:53 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:10 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:13 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:16 2021
+
+Info : Round 2:Date: Sat Jan 30 15:15:22 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:29 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:31 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:54 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:15:55 2021
+
+Info : Round 3:Date: Sat Jan 30 15:15:55 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Sat Jan 30 15:16:12 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:16:16 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Sat Jan 30 15:16:21 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:16:24 2021
+
+Info : Round 4:Date: Sat Jan 30 15:16:28 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Sat Jan 30 15:16:40 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Sat Jan 30 15:16:41 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Sat Jan 30 15:16:43 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:16:46 2021
+
+Info : Psychic1 guesed his clue set! His score is: 6Date: Sat Jan 30 15:16:49 2021
+
+Info : Psychic3 guesed his clue set! His score is: 6Date: Sat Jan 30 15:16:49 2021
+
+Info : Round 5:Date: Sat Jan 30 15:16:49 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Sat Jan 30 15:16:53 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Sat Jan 30 15:16:56 2021
+
+Info : Psychic2 guesed his clue set! His score is: 5Date: Sat Jan 30 15:16:58 2021
+
+Info : Round 6:Date: Sat Jan 30 15:16:58 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Sat Jan 30 15:17:02 2021
+
+Info : Psychic4 guesed his clue set! His score is: 4Date: Sat Jan 30 15:17:03 2021
+
+Info : Game Phase 2: Date: Sat Jan 30 15:17:03 2021
+
+Info : The psychics won!Date: Sat Jan 30 15:17:49 2021
+
+
+Info : Game Phase 1: Date: Sat Jan 30 15:19:39 2021
+
+Info : Round 1:Date: Sat Jan 30 15:19:39 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Jan 30 15:20:18 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:20:33 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:20:43 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:20:47 2021
+
+Info : Round 2:Date: Sat Jan 30 15:20:50 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Sat Jan 30 15:20:58 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:22:58 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:23:04 2021
+
+Info : Game Phase 1: Date: Sat Jan 30 15:24:52 2021
+
+Info : Round 1:Date: Sat Jan 30 15:24:52 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Jan 30 15:25:47 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:26:06 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:26:12 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:26:18 2021
+
+Info : Round 2:Date: Sat Jan 30 15:26:25 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Sat Jan 30 15:26:38 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Sat Jan 30 15:28:38 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Sat Jan 30 15:28:43 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:28:48 2021
+
+Info : Round 3:Date: Sat Jan 30 15:28:51 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Sat Jan 30 15:29:04 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Sat Jan 30 15:29:14 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Sat Jan 30 15:29:17 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Sat Jan 30 15:29:20 2021
+
+Info : Psychic1 guesed his clue set! His score is: 7Date: Sat Jan 30 15:29:25 2021
+
+Info : Psychic2 guesed his clue set! His score is: 7Date: Sat Jan 30 15:29:25 2021
+
+Info : Psychic3 guesed his clue set! His score is: 7Date: Sat Jan 30 15:29:25 2021
+
+Info : Round 4:Date: Sat Jan 30 15:29:25 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Sat Jan 30 15:29:29 2021
+
+Info : Round 5:Date: Sat Jan 30 15:29:42 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Sat Jan 30 15:29:59 2021
+
+Info : Round 6:Date: Sat Jan 30 15:30:05 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Sat Jan 30 15:30:11 2021
+
+Info : Psychic4 guesed his clue set! His score is: 4Date: Sat Jan 30 15:30:18 2021
+
+Info : Game Phase 2: Date: Sat Jan 30 15:30:18 2021
+
+Info : The psychics won!Date: Sat Jan 30 15:31:42 2021
+
+
+Info : Game Phase 1: Date: Sat Jan 30 15:37:21 2021
+
+Info : Round 1:Date: Sat Jan 30 15:37:21 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Jan 30 15:37:58 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Jan 30 15:38:04 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Jan 30 15:38:23 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Sat Jan 30 15:38:28 2021
+
+Info : Round 2:Date: Sat Jan 30 15:40:29 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Sat Jan 30 15:40:55 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Sat Jan 30 15:41:03 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Sat Jan 30 15:41:06 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Sat Jan 30 15:41:09 2021
+
+Info : Round 3:Date: Sat Jan 30 15:41:11 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Sat Jan 30 15:41:16 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Sat Jan 30 15:41:18 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Sat Jan 30 15:41:20 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Sat Jan 30 15:41:26 2021
+
+Info : Psychic1 guesed his clue set! His score is: 7Date: Sat Jan 30 15:41:27 2021
+
+Info : Psychic3 guesed his clue set! His score is: 7Date: Sat Jan 30 15:41:27 2021
+
+Info : Psychic4 guesed his clue set! His score is: 7Date: Sat Jan 30 15:41:27 2021
+
+Info : Round 4:Date: Sat Jan 30 15:41:27 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Sat Jan 30 15:41:46 2021
+
+Info : Round 5:Date: Sat Jan 30 15:42:12 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Sat Jan 30 15:42:20 2021
+
+Info : Psychic2 guesed his clue set! His score is: 5Date: Sat Jan 30 15:42:24 2021
+
+Info : Game Phase 2: Date: Sat Jan 30 15:42:24 2021
+
+Info : The psychics won!Date: Sat Jan 30 15:43:38 2021
+
+
+Info : Game Phase 1: Date: Fri Feb  5 10:39:38 2021
+
+Info : Round 1:Date: Fri Feb  5 10:39:38 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 10:41:07 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb  5 10:41:11 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 10:41:19 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 10:41:20 2021
+
+Info : Round 2:Date: Fri Feb  5 10:41:22 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 10:42:00 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb  5 10:42:01 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Fri Feb  5 10:42:03 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 10:42:06 2021
+
+Info : Round 3:Date: Fri Feb  5 10:42:09 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Fri Feb  5 10:42:22 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 10:42:24 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Fri Feb  5 10:42:25 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 10:42:26 2021
+
+Info : Psychic1 guesed his clue set! His score is: 7Date: Fri Feb  5 10:42:29 2021
+
+Info : Round 4:Date: Fri Feb  5 10:42:29 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Fri Feb  5 10:42:50 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Fri Feb  5 10:42:51 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 10:42:53 2021
+
+Info : Psychic2 guesed his clue set! His score is: 6Date: Fri Feb  5 10:42:54 2021
+
+Info : Psychic3 guesed his clue set! His score is: 6Date: Fri Feb  5 10:42:54 2021
+
+Info : Round 5:Date: Fri Feb  5 10:42:54 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Fri Feb  5 10:42:58 2021
+
+Info : Round 6:Date: Fri Feb  5 10:43:09 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Fri Feb  5 10:43:12 2021
+
+Info : Psychic4 guesed his clue set! His score is: 4Date: Fri Feb  5 10:43:14 2021
+
+Info : Game Phase 2: Date: Fri Feb  5 10:43:14 2021
+
+Info : The psychics lost!Date: Fri Feb  5 10:43:23 2021
+
+
+Info : Game Phase 1: Date: Fri Feb  5 16:12:31 2021
+
+Info : Round 1:Date: Fri Feb  5 16:12:31 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 16:13:38 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb  5 16:13:40 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 16:13:42 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 16:13:47 2021
+
+Info : Round 2:Date: Fri Feb  5 16:13:49 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 16:14:14 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 16:14:18 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 16:14:22 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:14:25 2021
+
+Info : Round 3:Date: Fri Feb  5 16:14:26 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 16:14:36 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Fri Feb  5 16:14:41 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Fri Feb  5 16:14:45 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:14:47 2021
+
+Info : Round 4:Date: Fri Feb  5 16:14:49 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 16:15:10 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Fri Feb  5 16:15:13 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Fri Feb  5 16:15:15 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:15:17 2021
+
+Info : Psychic2 guesed his clue set! His score is: 6Date: Fri Feb  5 16:15:18 2021
+
+Info : Round 5:Date: Fri Feb  5 16:15:18 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 16:15:37 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Fri Feb  5 16:15:39 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:15:41 2021
+
+Info : Psychic3 guesed his clue set! His score is: 5Date: Fri Feb  5 16:15:42 2021
+
+Info : Round 6:Date: Fri Feb  5 16:15:42 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Fri Feb  5 16:15:46 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Fri Feb  5 16:15:48 2021
+
+Info : Psychic1 guesed his clue set! His score is: 4Date: Fri Feb  5 16:15:51 2021
+
+Info : Psychic4 guesed his clue set! His score is: 4Date: Fri Feb  5 16:15:51 2021
+
+Info : Game Phase 2: Date: Fri Feb  5 16:15:51 2021
+
+Info : The psychics lost!Date: Fri Feb  5 16:15:58 2021
+
+
+Info : Game Phase 1: Date: Fri Feb  5 16:21:55 2021
+
+Info : Round 1:Date: Fri Feb  5 16:21:55 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 16:22:58 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb  5 16:23:03 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 16:23:04 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 16:23:06 2021
+
+Info : Round 2:Date: Fri Feb  5 16:23:07 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 16:23:27 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 16:23:30 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Fri Feb  5 16:23:33 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 16:23:34 2021
+
+Info : Round 3:Date: Fri Feb  5 16:23:35 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:03 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:04 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Fri Feb  5 16:24:05 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:07 2021
+
+Info : Psychic3 guesed his clue set! His score is: 7Date: Fri Feb  5 16:24:08 2021
+
+Info : Round 4:Date: Fri Feb  5 16:24:08 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Fri Feb  5 16:24:31 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:33 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:36 2021
+
+Info : Psychic1 guesed his clue set! His score is: 6Date: Fri Feb  5 16:24:38 2021
+
+Info : Round 5:Date: Fri Feb  5 16:24:38 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Fri Feb  5 16:24:42 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:24:44 2021
+
+Info : Psychic2 guesed his clue set! His score is: 5Date: Fri Feb  5 16:24:45 2021
+
+Info : Round 6:Date: Fri Feb  5 16:24:45 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Fri Feb  5 16:24:50 2021
+
+Info : Psychic4 guesed his clue set! His score is: 4Date: Fri Feb  5 16:25:02 2021
+
+Info : Game Phase 2: Date: Fri Feb  5 16:25:02 2021
+
+Info : The psychics lost!Date: Fri Feb  5 16:25:15 2021
+
+
+Info : Game Phase 1: Date: Fri Feb  5 16:30:49 2021
+
+Info : Round 1:Date: Fri Feb  5 16:30:49 2021
+
+Info : Game Phase 1: Date: Fri Feb  5 16:31:55 2021
+
+Info : Round 1:Date: Fri Feb  5 16:31:55 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:04 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:05 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:09 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:12 2021
+
+Info : Round 2:Date: Fri Feb  5 16:33:13 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Fri Feb  5 16:33:40 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Fri Feb  5 16:33:42 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:43 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Fri Feb  5 16:33:44 2021
+
+Info : Round 3:Date: Fri Feb  5 16:33:45 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Fri Feb  5 16:33:53 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Fri Feb  5 16:33:55 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Fri Feb  5 16:33:56 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:34:00 2021
+
+Info : Psychic1 guesed his clue set! His score is: 7Date: Fri Feb  5 16:34:01 2021
+
+Info : Psychic2 guesed his clue set! His score is: 7Date: Fri Feb  5 16:34:01 2021
+
+Info : Round 4:Date: Fri Feb  5 16:34:01 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Fri Feb  5 16:34:25 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Fri Feb  5 16:34:27 2021
+
+Info : Psychic3 guesed his clue set! His score is: 6Date: Fri Feb  5 16:34:28 2021
+
+Info : Round 5:Date: Fri Feb  5 16:34:28 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Fri Feb  5 16:34:32 2021
+
+Info : Psychic4 guesed his clue set! His score is: 5Date: Fri Feb  5 16:34:33 2021
+
+Info : Game Phase 2: Date: Fri Feb  5 16:34:33 2021
+
+Info : The psychics won!Date: Fri Feb  5 16:34:37 2021
+
+
+Info : Game Phase 1: Date: Fri Feb 26 09:06:24 2021
+
+Info : Round 1:Date: Fri Feb 26 09:06:24 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Fri Feb 26 09:06:49 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Fri Feb 26 09:06:58 2021
+
+Info : Game Phase 1: Date: Sat Feb 27 11:07:33 2021
+
+Info : Round 1:Date: Sat Feb 27 11:07:33 2021
+
+Info : Game Phase 1: Date: Mon Apr 12 10:39:15 2021
+
+Info : Round 1:Date: Mon Apr 12 10:39:15 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Mon Apr 12 10:40:18 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Mon Apr 12 10:40:46 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Mon Apr 12 10:40:47 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Mon Apr 12 10:40:48 2021
+
+Info : Round 2:Date: Mon Apr 12 10:40:49 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Mon Apr 12 10:41:01 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Mon Apr 12 10:41:07 2021
+
+Info : Player3 has 1 points in phase 2.
+Date: Mon Apr 12 10:41:09 2021
+
+Info : Player4 has 0 points in phase 1.
+Date: Mon Apr 12 10:41:15 2021
+
+Info : Round 3:Date: Mon Apr 12 10:41:19 2021
+
+Info : Player1 has 1 points in phase 2.
+Date: Mon Apr 12 10:41:25 2021
+
+Info : Player2 has 1 points in phase 2.
+Date: Mon Apr 12 10:41:27 2021
+
+Info : Player3 has 2 points in phase 3.
+Date: Mon Apr 12 10:41:29 2021
+
+Info : Player4 has 1 points in phase 2.
+Date: Mon Apr 12 10:41:32 2021
+
+Info : Psychic3 guesed his clue set! His score is: 7Date: Mon Apr 12 10:41:35 2021
+
+Info : Round 4:Date: Mon Apr 12 10:41:35 2021
+
+Info : Player1 has 2 points in phase 3.
+Date: Mon Apr 12 10:41:38 2021
+
+Info : Player2 has 2 points in phase 3.
+Date: Mon Apr 12 10:41:40 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Mon Apr 12 10:41:42 2021
+
+Info : Psychic1 guesed his clue set! His score is: 6Date: Mon Apr 12 10:41:43 2021
+
+Info : Psychic2 guesed his clue set! His score is: 6Date: Mon Apr 12 10:41:43 2021
+
+Info : Round 5:Date: Mon Apr 12 10:41:43 2021
+
+Info : Player4 has 2 points in phase 3.
+Date: Mon Apr 12 10:41:47 2021
+
+Info : Psychic4 guesed his clue set! His score is: 5Date: Mon Apr 12 10:41:50 2021
+
+Info : Game Phase 2: Date: Mon Apr 12 10:41:50 2021
+
+Info : The psychics won!Date: Mon Apr 12 10:42:54 2021
+
+

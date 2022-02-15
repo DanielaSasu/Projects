@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClueCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VisionCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Psychic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChoosePlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GhostBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FinalScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GhostBoardPhase2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MysteriumGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBoardPhase2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VisionCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClueCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Psychic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChoosePlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FinalScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GhostBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GhostBoardPhase2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MysteriumGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBoardPhase2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="background.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="PlayButton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location3.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location4.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location5.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location6.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location7.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location8.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location9.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Location10.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect3.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect4.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect5.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect6.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect7.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect8.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect9.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Suspect10.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision3.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision4.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision5.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision6.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision7.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision8.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision9.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision10.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision11.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision12.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision13.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision14.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision15.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision16.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision17.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision18.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision19.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision20.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision21.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision22.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision23.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision24.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision25.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision26.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision27.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision28.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision29.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision30.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision31.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision32.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision33.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision34.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vision35.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon3.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon4.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon5.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon6.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon7.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon8.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon9.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon10.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Board_Cards_Logger.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="GameEventLog.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="GhostLog.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="PlayerLog.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
