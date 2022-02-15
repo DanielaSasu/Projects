@@ -1,0 +1,1 @@
+This is an android application in Java that uses the Google Maps activity recognition API.

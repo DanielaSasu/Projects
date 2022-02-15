@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00646e"
+    android:padding="16dp"
+    tools:context=".ProfilActivity">
+
+    <LinearLayout
+        android:layout_width="301dp"
+        android:layout_height="412dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="69dp"
+        android:layout_marginLeft="69dp"
+        android:layout_marginTop="162dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="56dp"
+        android:layout_marginBottom="173dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/updateEmailBox"
+            android:layout_width="188dp"
+            android:layout_height="65dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="Email"
+            android:inputType="none"
+            android:textColor="#fff4d8" />
+
+        <EditText
+            android:id="@+id/updateHeightBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:ems="10"
+            android:hint="Height(cm)"
+            android:inputType="numberDecimal"
+            android:textColor="#fff4d8" />
+
+        <EditText
+            android:id="@+id/updateWeightBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:ems="10"
+            android:hint="Weight(kg)"
+            android:inputType="numberDecimal"
+            android:textColor="#fff4d8" />
+
+        <EditText
+            android:id="@+id/updateBirthBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:ems="10"
+            android:hint="Birthday"
+            android:inputType="date"
+            android:textColor="#fff4d8" />
+
+        <Button
+            android:id="@+id/updateButton"
+            android:layout_width="123dp"
+            android:layout_height="41dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:backgroundTint="@color/button_background_color"
+            android:text="Modify"
+            android:textColor="#fff4d8" />
+
+    </LinearLayout>
+
+</RelativeLayout>

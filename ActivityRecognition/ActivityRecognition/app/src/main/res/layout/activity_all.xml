@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#00646e"
+    tools:context=".AllActivity">
+
+    <LinearLayout
+        android:layout_width="395dp"
+        android:layout_height="716dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="0dp"
+        android:orientation="vertical">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="96dp">
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                app:srcCompat="@drawable/ic_driving" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textDriving"
+                android:layout_width="244dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp" >
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_on_bicycle" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textCycling"
+                android:layout_width="244dp"
+                android:layout_height="match_parent" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp" >
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_running" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textRunning"
+                android:layout_width="245dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_still" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textStill"
+                android:layout_width="244dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp" >
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_tilting" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textTilting"
+                android:layout_width="247dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp" >
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_walking" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textWalking"
+                android:layout_width="245dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="102dp" >
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_still" />
+
+            <TextView
+                android:textSize="20dp"
+                android:textColor="#111111"
+                android:inputType="none"
+                android:gravity="center"
+                android:enabled="false"
+                android:id="@+id/textStanding"
+                android:layout_width="247dp"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <Button
+            android:id="@+id/resetButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reset" />
+    </LinearLayout>
+</ScrollView>
