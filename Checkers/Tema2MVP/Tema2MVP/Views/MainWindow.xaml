@@ -1,0 +1,46 @@
+﻿<Window x:Class="Tema2MVP.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema2MVP.ViewModels"
+        mc:Ignorable="d"
+        Title="Tema 2" Height="806" Width="1191.2"  ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+    <Window.DataContext>
+        <local:GameVM />
+    </Window.DataContext>
+    <Grid HorizontalAlignment="Left" Height="786" Margin="-3,-16,0,0" VerticalAlignment="Top" Width="1353">
+        <ItemsControl Name="grid" ItemsSource="{Binding GameBoard}" VerticalAlignment="Bottom" Height="670" Margin="465,0,182,31">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <ItemsControl ItemsSource="{Binding}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal" />
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border Width="80" Height="80" BorderThickness="2" BorderBrush="#000000">
+                                    <Button Command="{ Binding ClickCommand}" CommandParameter="{Binding SimpleCell}">
+                                        <Button.Template>
+                                            <ControlTemplate>
+                                                <Image Source="{Binding SimpleCell.CellImage}" Stretch="UniformToFill" />
+                                            </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <Button Content="NEW GAME" Background="Pink" BorderBrush="Pink"  FontSize="17" FontWeight="Bold" HorizontalAlignment="Left" Height="63" Margin="84,298,0,0" VerticalAlignment="Top" Width="297" Click="NewGameClick"/>
+        <Button Content="SAVE GAME" Background="Pink" BorderBrush="Pink" FontSize="17" FontWeight="Bold" HorizontalAlignment="Left" Height="63" Margin="84,385,0,0" VerticalAlignment="Top" Width="297" Click="SaveGameClick"/>
+        <Button Content="LOAD GAME" Background="Pink" BorderBrush="Pink" FontSize="17" FontWeight="Bold" HorizontalAlignment="Left" Height="63" Margin="84,475,0,0" VerticalAlignment="Top" Width="297" Click="LoadGameClick"/>
+        <Button Content="ABOUT" Background="Pink" BorderBrush="Pink" FontSize="17" FontWeight="Bold" HorizontalAlignment="Left" Height="63" Margin="84,656,0,0" VerticalAlignment="Top" Width="297" Click="AboutClick"/>
+        <Button Content="STATISTICS" Background="Pink" BorderBrush="Pink" FontSize="17" FontWeight="Bold" HorizontalAlignment="Left" Height="63" Margin="84,566,0,0" VerticalAlignment="Top" Width="297" Click="StatisticsClick"/>
+        <Image HorizontalAlignment="Left" Height="188" Margin="122,85,0,0" VerticalAlignment="Top" Width="224" Source="C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\Resources\logo.JPG"/>
+    </Grid>
+</Window>

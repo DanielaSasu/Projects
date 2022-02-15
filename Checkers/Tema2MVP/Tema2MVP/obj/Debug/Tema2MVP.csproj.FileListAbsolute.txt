@@ -1,0 +1,44 @@
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csprojAssemblyReference.cache
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\App.g.cs
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP_MarkupCompile.cache
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP_MarkupCompile.lref
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.exe.config
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.exe
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.pdb
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.g.resources
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.Properties.Resources.resources
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.GenerateResource.cache
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.CoreCompileInputs.cache
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.exe
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.pdb
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.dll
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.Security.dll
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Owin.dll
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.xml
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.Security.xml
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.CopyComplete
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Views\MainWindow.g.cs
+D:\FACULTATE\SEM2\MVP\Tema2MVP\Tema2MVP\Tema2MVP\obj\Debug\Views\MainWindow.baml
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.exe.config
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.exe
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Tema2MVP.pdb
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Owin.dll
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.AssemblyReference.cache
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\App.g.cs
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP_MarkupCompile.cache
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP_MarkupCompile.lref
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Views\MainWindow.baml
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.g.resources
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.Properties.Resources.resources
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.GenerateResource.cache
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.csproj.CopyComplete
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.exe
+C:\Users\Dani\Desktop\Personal projects\Checkers\Tema2MVP\Tema2MVP\obj\Debug\Tema2MVP.pdb
