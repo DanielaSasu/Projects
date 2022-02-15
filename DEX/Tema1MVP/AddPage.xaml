@@ -1,0 +1,41 @@
+﻿<Page x:Class="Tema1MVP.AddPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Tema1MVP"
+      xmlns:ctx="clr-namespace:Tema1MVP"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddPage"  Height="808" Width="1008">
+    <Page.DataContext>
+        <ctx:WordVM/>
+    </Page.DataContext>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="386*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="376*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="BlanchedAlmond" HorizontalAlignment="Left" Height="748" Margin="0,68.5,0,0" Stroke="BlanchedAlmond" VerticalAlignment="Top" Width="998" Grid.Column="1" Grid.RowSpan="4" />
+        <Label Grid.ColumnSpan="2" Content="Word" HorizontalAlignment="Left" Height="43" Margin="101,322,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="170" FontSize="23" FontWeight="SemiBold"/>
+        <Label Grid.ColumnSpan="2" Content="Category" HorizontalAlignment="Left" Height="47" Margin="99,23.4,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="169" FontSize="23" FontWeight="SemiBold" Grid.Row="2"/>
+        <Label Grid.ColumnSpan="2" Content="Description" HorizontalAlignment="Left" Height="44" Margin="101,117.2,0,0" VerticalAlignment="Top" Width="170" FontSize="23" FontWeight="SemiBold" Grid.Row="3"/>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="47" Margin="271,318,0,0" Grid.RowSpan="2" TextWrapping="Wrap" Text="{Binding ElementName=MyList, Path=SelectedItem.MyWord}" VerticalAlignment="Top" Width="256"  Name="word"/>
+        <ComboBox Grid.ColumnSpan="2" Name="category" HorizontalAlignment="Left" Height="45" Margin="271,23.4,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="256" IsEditable="True" ItemsSource="{Binding Categorys}" Text="{Binding ElementName=MyList, Path=SelectedItem.MyCategory}" Grid.Row="2"/>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="149" Margin="271,72.2,0,0" TextWrapping="Wrap" Text="{Binding ElementName=MyList, Path=SelectedItem.MyDescription}" VerticalAlignment="Top" Width="256" Grid.Row="3" Name="description"/>
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="275" Margin="589,319,0,0" Grid.RowSpan="4" VerticalAlignment="Top" Width="281" Name="WordImage" Source="{Binding ElementName=ImageSearchBar, Path=Text}"/>
+        <Button Grid.ColumnSpan="2" Content="Add" HorizontalAlignment="Left" Height="44" Margin="561,258.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="91" FontSize="23" FontWeight="SemiBold" Background="Beige" BorderBrush="Beige" BorderThickness="0" Click="Button_Click"/>
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="148" Margin="323,127,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="340" Name="LogoImage" Source="logo.PNG"/>
+        <ListBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="75" Margin="271,242.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="256" ItemsSource="{Binding Words}" DisplayMemberPath="MyWord" Name="MyList"/>
+        <Button Grid.ColumnSpan="2" Content="Modify" HorizontalAlignment="Left" Height="44" Margin="685,258.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="91" FontSize="23" FontWeight="SemiBold" Background="Beige" BorderBrush="Beige" BorderThickness="0" Click="Button_Click_2"/>
+        <Button Grid.ColumnSpan="2" Content="Delete" HorizontalAlignment="Left" Height="44" Margin="808,258.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="92" FontSize="23" FontWeight="SemiBold" Background="Beige" BorderBrush="Beige" BorderThickness="0" Click="Button_Click_1"/>
+        <Button Grid.ColumnSpan="2" Content="Add image" HorizontalAlignment="Left" Height="44" Margin="778,189.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="121" FontSize="23" FontWeight="SemiBold" Background="Beige" BorderBrush="Beige" BorderThickness="0" Click="Button_Click_3"/>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="44" Margin="561,189.2,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Grid.Row="3" Text="{Binding ElementName=MyList, Path=SelectedItem.MyWordImage}" Name="ImageSearchBar"/>
+    </Grid>
+</Page>

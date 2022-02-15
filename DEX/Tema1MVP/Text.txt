@@ -1,0 +1,44 @@
+cat
+animal
+a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\pisica.jpg
+
+dog
+animal
+a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\caine.jpg
+
+car
+automobila
+a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\masina.jpg
+
+bee
+insect
+a stinging winged insect which collects nectar and pollen, produces wax and honey, and lives in large communities
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\albina.jpg
+
+butterfly
+insect
+a nectar-feeding insect with two pairs of large, typically brightly coloured wings that are covered with microscopic scales
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\fluture.jpg
+
+card
+object
+a small rectangular piece of plastic containing personal data in a machine-readable form and used to obtain cash or credit or to pay for a phone call, gain entry to a room or building
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\defaultImage.png
+
+camel
+animal
+a large, long-necked ungulate mammal of arid country, with long slender legs, broad cushioned feet, and either one or two humps on the back
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\camila.jpg
+
+word
+literature
+sgdagdisf
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\defaultImage.png
+
+backpack
+object
+jfbbAbfog
+D:\FACULTATE\SEM2\MVP\Tema1MVP\Images\defaultImage.png
