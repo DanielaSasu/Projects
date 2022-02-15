@@ -1,0 +1,1 @@
+This app finds the shortest paths to all exits in a maze. It uses the DFS algorithm.
